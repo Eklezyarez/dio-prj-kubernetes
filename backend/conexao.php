@@ -3,7 +3,6 @@ $servername = "";
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
-
 // Criar conexão
 
 $link = new mysqli($servername, $username, $password, $database);
