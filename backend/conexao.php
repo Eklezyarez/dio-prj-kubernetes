@@ -6,7 +6,6 @@ $database = "meubanco";
 
 // Criar conexão
 
-
 $link = new mysqli($servername, $username, $password, $database);
 
 /* check connection */
